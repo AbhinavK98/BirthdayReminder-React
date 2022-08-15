@@ -1,32 +1,20 @@
-## BIRTHDAY REMINDER- Created using React(useState Concepts)
-
 
 # Project Title
 
 Birthday Reminder web app which shows details of user as Age,name,and DOB. We have created it using React(useState)Concepts.
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run build
 
 ## Live-Link
 
 https://birthday-reminder-abhi.netlify.app/
 
 
-## Demo
+## DEMO(Snapshot)
+![BirthdayReminder](https://user-images.githubusercontent.com/48747218/184639648-5fc57c0a-bd0c-497d-b992-0ae0503b3bd7.png)
 
-❮img src="public\BirthdayReminder.png" ❯
 
+## Deployment
 
-## Installation
-
-Install my-project with npm
+To deploy this project run
 
 ```bash
-  npm install my-project
-  cd my-project
-```
-    
+  npm run build
